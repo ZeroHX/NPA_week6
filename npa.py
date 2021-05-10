@@ -94,7 +94,7 @@ while True:
             action = current_msg[1:]
             print(action)
             params_geo = {
-            'key': 'ludDgoWVoTeYgccRFKd5V5GVUMqz1OOC',
+            'key': '',  #key geo
             'location': action
             }
             
